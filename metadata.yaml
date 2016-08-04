@@ -1,0 +1,41 @@
+_repo: Pioneers-of-the-Old-Southwest--a-chronicle-of-the-dark-and-bloody-ground_3073
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Skinner, Constance Lindsay
+    alias: Skinner, Constance L. (Constance Lindsay)
+    birthdate: 1882
+    deathdate: 1939
+    gutenberg_agent_id: '1107'
+    url: http://www.gutenberg.org/2009/agents/1107
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- United States
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3073'
+language: en
+publication_note: '[S.l. :  s.n.],  1919'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 18
+subjects:
+- !lcsh 'Kentucky -- History -- To 1792'
+- !lcsh 'Frontier and pioneer life -- Southwest, Old'
+- !lcsh 'Tennessee -- History'
+- !lcc 'F396'
+- !lcsh 'Southwest, Old -- History'
+- !lcsh 'Boone, Daniel, 1734-1820'
+- GITenberg
+title: 'Pioneers of the Old Southwest: a chronicle of the dark and bloody ground'
+url: http://www.gutenberg.org/ebooks/3073
