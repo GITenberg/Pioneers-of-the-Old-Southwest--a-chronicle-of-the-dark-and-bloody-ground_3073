@@ -1,5 +1,8 @@
 _repo: Pioneers-of-the-Old-Southwest--a-chronicle-of-the-dark-and-bloody-ground_3073
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Skinner, Constance Lindsay
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1084
     wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3073#Pioneers-of-the-Old-Southwest--a-chronicle-of-the-dark-and-bloody-ground
 gutenberg_bookshelf:
 - Children's History
 - United States
